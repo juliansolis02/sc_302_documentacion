@@ -1,1 +1,2 @@
-console.log(‘Hola mundo’);
+Console.log (“Hola mundo_editado”);
+Console.log (“cambios en el archivo”);
